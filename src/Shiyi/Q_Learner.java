@@ -79,10 +79,15 @@ public class Q_Learner {
         } else {
             int maxAction = 0;
             float maxReward = 0;
+            int equalCount = 0; //how many actions are max and equal
             for (int i = 0; i < length; i++) {
                 if (actionArray.get(i) > maxReward) {
                     maxReward = actionArray.get(i);
                     maxAction = i;
+                    equalCount = 1;
+                } else if (actionArray.get(i) == maxReward) {
+                    equalCount++;
+                    maxAction = rand.nextInt(equalCount) < 1 ? i : maxAction;
                 }
             }
             return maxAction;

@@ -7,10 +7,10 @@ import com.jogamp.opengl.GLEventListener;
 import java.awt.geom.Point2D;
 import java.awt.geom.Point2D.Float;
 
-public class GameListener implements GLEventListener {
+public class AppleFinderListener implements GLEventListener {
 
-    private Point2D applePosition;
-    private Point2D finderPosition;
+    protected Point2D applePosition;
+    protected Point2D finderPosition;
 
     public void setApplePosition(int x, int y) {
         applePosition.setLocation(x, y);
@@ -20,7 +20,7 @@ public class GameListener implements GLEventListener {
         finderPosition.setLocation(x, y);
     }
 
-    public GameListener() {
+    public AppleFinderListener() {
         super();
         applePosition = new Point2D.Float();
         finderPosition = new Point2D.Float();
@@ -55,7 +55,7 @@ public class GameListener implements GLEventListener {
         gl.glEnd();
     }
 
-    private void drawSquare(GL2 gl2, Point2D position, float r, float g, float b) {
+    protected void drawSquare(GL2 gl2, Point2D position, float r, float g, float b) {
         gl2.glColor3f(r, g, b);
         gl2.glVertex2f((float) position.getX(), (float) position.getY());
         gl2.glVertex2f((float) position.getX(), (float) position.getY() + 1);

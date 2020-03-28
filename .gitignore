@@ -23,3 +23,6 @@
 hs_err_pid*
 .idea/*
 src/.DS_Store
+.DS_Store
+out/production/Q_Learning/.DS_Store
+.DS_Store

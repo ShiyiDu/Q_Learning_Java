@@ -6,9 +6,9 @@ import java.util.Random;
 
 //a game representing a simple food finder game
 public class AppleFinderGame {
-    private int score;
-    private Point2D finderPosition;
-    private Point2D applePosition;
+    protected int score;
+    protected Point2D finderPosition;
+    protected Point2D applePosition;
     public static int gameWidth;
     public static int gameHeight;
 
@@ -42,6 +42,7 @@ public class AppleFinderGame {
     public void moveDown() {
         int newY = (int) Math.max(finderPosition.getY() - 1, 0);
         finderPosition.setLocation(finderPosition.getX(), newY);
+        updateScore();
     }
 
     public Point2D getApplePosition() {
@@ -65,7 +66,7 @@ public class AppleFinderGame {
         return (int) Math.floor(getAngle(applePosition) / 45f);
     }
 
-    private float getAngle(Point2D apple) {
+    protected float getAngle(Point2D apple) {
         float y = (float) this.finderPosition.getY();
         float x = (float) this.finderPosition.getX();
         float angle = (float) Math.toDegrees(Math.atan2(apple.getY() - y, apple.getX() - x));
@@ -77,15 +78,18 @@ public class AppleFinderGame {
         return angle;
     }
 
-    private void updateScore() {
+    protected boolean updateScore() {
         //determine if the apple is eat
         if (finderPosition.equals(applePosition)) {
             this.score++;
             setRandomApple();
+            return true;
         }
+
+        return false;
     }
 
-    private void setRandomApple() {
+    protected void setRandomApple() {
         int x, y;
         Random random = new Random();
         do {

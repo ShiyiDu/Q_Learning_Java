@@ -43,7 +43,7 @@ public class AppleFinderLearner {
         float currentDistance = gameModel.distanceToApple();
 
         if (currentScore > lastScore) {
-            reward = 100;
+            reward = 10;
             lastScore = currentScore;
         } else if (currentDistance < lastDistance) {
             reward = 1;

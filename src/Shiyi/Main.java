@@ -9,47 +9,66 @@ import java.util.concurrent.TimeUnit;
 
 public class Main {
 
-    private static int width;
-    private static GLWindow window = null;
+    public static void initSnakeGame() throws InterruptedException {
 
-    public static void init() throws InterruptedException {
+        SnakeGame gameModel = new SnakeGame(20, 20);
+        SnakeLearner learner = new SnakeLearner(gameModel);
+
+        SnakeListener gameListener = new SnakeListener(gameModel.getBody());
+
+        initGL(gameListener);
+
+        while (true) {
+            learner.learn();
+            gameListener.setFinderPosition((int) gameModel.getFinderPosition().getX(), (int) gameModel.getFinderPosition().getY());
+            gameListener.setApplePosition((int) gameModel.getApplePosition().getX(), (int) gameModel.getApplePosition().getY());
+            if (learner.currentGeneration() > 300) TimeUnit.MILLISECONDS.sleep(100);
+//            else TimeUnit.MILLISECONDS.sleep(2);
+        }
+    }
+
+    public static void initAppleFinderGame() throws InterruptedException {
+
+        AppleFinderGame gameModel = new AppleFinderGame(20, 20);
+        AppleFinderLearner learner = new AppleFinderLearner(gameModel);
+
+        AppleFinderListener gameListener = new AppleFinderListener();
+
+        initGL(gameListener);
+
+        while (true) {
+            learner.learn();
+            gameListener.setFinderPosition((int) gameModel.getFinderPosition().getX(), (int) gameModel.getFinderPosition().getY());
+            gameListener.setApplePosition((int) gameModel.getApplePosition().getX(), (int) gameModel.getApplePosition().getY());
+            TimeUnit.MILLISECONDS.sleep(100);
+        }
+    }
+
+    private static void initGL(AppleFinderListener listener) {
         GLProfile.initSingleton();
         GLProfile profile = GLProfile.get(GLProfile.GL2);
         GLCapabilities caps = new GLCapabilities(profile);
 
-        AppleFinderGame gameModel = new AppleFinderGame(20, 20);
-
-        GameListener gameListener = new GameListener();
-
-        AppleFinderLearner learner = new AppleFinderLearner(gameModel);
-
-        gameListener.setFinderPosition((int) gameModel.getFinderPosition().getX(), (int) gameModel.getFinderPosition().getY());
-        gameListener.setApplePosition((int) gameModel.getApplePosition().getX(), (int) gameModel.getApplePosition().getY());
-
-
-        window = GLWindow.create(caps);
+        GLWindow window = GLWindow.create(caps);
         window.setSize(800, 800);
         window.setResizable(false);
-        window.addGLEventListener(gameListener);
+        window.addGLEventListener(listener);
+        window.addKeyListener(new KeyInput());
 
         FPSAnimator animator = new FPSAnimator(window, 60);
         animator.start();
 
         window.setVisible(true);
-
-        while (true) {
-            TimeUnit.MILLISECONDS.sleep(100);
-            learner.learn();
-            gameListener.setFinderPosition((int) gameModel.getFinderPosition().getX(), (int) gameModel.getFinderPosition().getY());
-            gameListener.setApplePosition((int) gameModel.getApplePosition().getX(), (int) gameModel.getApplePosition().getY());
-        }
     }
 
     public static void main(String[] args) {
         try {
-            init();
+//            initAppleFinderGame();
+            initSnakeGame();
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
+
+
     }
 }
