@@ -9,6 +9,7 @@ public class SnakeLearner {
     private float reward;
     //    private float greedyDecay = 0.0002f; //how less greedy should we get after each move?
     private int generation = 0;
+    private int highestScore = 0;
 
     public SnakeLearner(SnakeGame gameModel) {
         this.gameModel = gameModel;
@@ -52,11 +53,13 @@ public class SnakeLearner {
         } else if (currentScore < lastScore) {
             reward = -100;
             generation++;
+            highestScore = Math.max(lastScore, highestScore);
+            float newGreedy = 0.1f / (float) highestScore;
+            learner.setGreedyFactor(newGreedy);
             System.out.println("current generation:" + generation);
-            //train it for 200 generations
-            if (generation > 200) {
-                learner.decreaseGreedy(1f);
-            }
+            System.out.println("new greedy factor:" + newGreedy);
+            System.out.println("current score:" + lastScore);
+            System.out.println("high score:" + highestScore);
             lastScore = currentScore;
         } else if (currentDistance < lastDistance) {
             reward = 2;

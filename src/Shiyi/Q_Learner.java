@@ -6,7 +6,7 @@ import java.util.Random;
 
 public class Q_Learner {
     private float greedyFactor;
-    private float discountFactor;
+    private float discountFactor; //how far the future should you see?
     private float learningRate;
 
     private List<List<Float>> qTable;
@@ -14,10 +14,6 @@ public class Q_Learner {
     private ExecuteFunction executeFunc; //<action, state> execute the action, return the resulting state.
 
     private int State;
-
-    public void setState(int newState) {
-        this.State = newState;
-    }
 
     public Q_Learner(float greedy, float discount, float rate, int states, int actions, RewardFunction reward, ExecuteFunction execution) {
         qTable = new ArrayList<List<Float>>(states);
@@ -36,6 +32,18 @@ public class Q_Learner {
         this.executeFunc = execution;
     }
 
+    public void setqTable(List<List<Float>> newqTable) {
+        this.qTable = newqTable;
+    }
+
+    public List<List<Float>> getqTable() {
+        return qTable;
+    }
+
+    public void setState(int newState) {
+        this.State = newState;
+    }
+
     public void MoveAndLearn() {
         //get the next move
         int nextMove = getNextMove(this.State);
@@ -50,8 +58,10 @@ public class Q_Learner {
 
         float currentQ = this.qTable.get(oldState).get(nextMove);
 
-        float futureReward = 0;
+        //THE FUTURE REWARD SHOULD NOT BE 0, it prevents the AI from learning the punishments
+//        float futureReward = 0;
 
+        float futureReward = Float.NEGATIVE_INFINITY;
         for (float q : qTable.get(newState)) {
             if (q > futureReward) futureReward = q;
         }
@@ -66,6 +76,10 @@ public class Q_Learner {
         if (this.greedyFactor < 0) this.greedyFactor = 0;
     }
 
+    public void setGreedyFactor(float greedyFactor) {
+        this.greedyFactor = greedyFactor;
+    }
+
     private int getNextMove(int state) {
         //toss the coin, choose if we want greedy or the best strategy.
         List<Float> actionArray = qTable.get(state);
@@ -78,7 +92,7 @@ public class Q_Learner {
             return (rand.nextInt(length));
         } else {
             int maxAction = 0;
-            float maxReward = 0;
+            float maxReward = Float.NEGATIVE_INFINITY;
             int equalCount = 0; //how many actions are max and equal
             for (int i = 0; i < length; i++) {
                 if (actionArray.get(i) > maxReward) {
@@ -93,7 +107,6 @@ public class Q_Learner {
             return maxAction;
         }
     }
-
 
     @FunctionalInterface
     public static interface ExecuteFunction {

@@ -9,6 +9,24 @@ import java.util.concurrent.TimeUnit;
 
 public class Main {
 
+    public static void initSnakeGame2() throws InterruptedException {
+
+        SnakeGame2 gameModel = new SnakeGame2(20, 20);
+        SnakeLearner2 learner = new SnakeLearner2(gameModel);
+
+        SnakeListener gameListener = new SnakeListener(gameModel.getBody());
+
+        initGL(gameListener);
+
+        while (true) {
+            learner.learn();
+            gameListener.setFinderPosition((int) gameModel.getFinderPosition().getX(), (int) gameModel.getFinderPosition().getY());
+            gameListener.setApplePosition((int) gameModel.getApplePosition().getX(), (int) gameModel.getApplePosition().getY());
+            if (learner.currentGeneration() > 220000) TimeUnit.MILLISECONDS.sleep(100);
+//            else TimeUnit.MILLISECONDS.sleep(10);
+        }
+    }
+
     public static void initSnakeGame() throws InterruptedException {
 
         SnakeGame gameModel = new SnakeGame(20, 20);
@@ -23,7 +41,7 @@ public class Main {
             gameListener.setFinderPosition((int) gameModel.getFinderPosition().getX(), (int) gameModel.getFinderPosition().getY());
             gameListener.setApplePosition((int) gameModel.getApplePosition().getX(), (int) gameModel.getApplePosition().getY());
             if (learner.currentGeneration() > 300) TimeUnit.MILLISECONDS.sleep(100);
-//            else TimeUnit.MILLISECONDS.sleep(2);
+//            else TimeUnit.MILLISECONDS.sleep(10);
         }
     }
 
@@ -64,7 +82,8 @@ public class Main {
     public static void main(String[] args) {
         try {
 //            initAppleFinderGame();
-            initSnakeGame();
+//            initSnakeGame();
+            initSnakeGame2();
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
