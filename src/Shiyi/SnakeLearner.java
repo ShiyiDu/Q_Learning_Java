@@ -10,10 +10,16 @@ public class SnakeLearner {
     //    private float greedyDecay = 0.0002f; //how less greedy should we get after each move?
     private int generation = 0;
     private int highestScore = 0;
+    private int sumScore = 0;
+    private boolean stopedLearning = false;
 
     public SnakeLearner(SnakeGame gameModel) {
         this.gameModel = gameModel;
         this.learner = new Q_Learner(0.2f, 0.5f, 0.8f, 32, 3, this::getReward, this::executeAction);
+    }
+
+    public void stopLearning() {
+        stopedLearning = true;
     }
 
     public int currentGeneration() {
@@ -49,17 +55,21 @@ public class SnakeLearner {
         if (currentScore > lastScore) {
             reward = 100;
             lastScore = currentScore;
-            System.out.println("current score:" + currentScore);
+//            System.out.println("current score:" + currentScore);
         } else if (currentScore < lastScore) {
             reward = -100;
             generation++;
+            sumScore += lastScore;
             highestScore = Math.max(lastScore, highestScore);
-            float newGreedy = 0.1f / (float) highestScore;
-            learner.setGreedyFactor(newGreedy);
-            System.out.println("current generation:" + generation);
-            System.out.println("new greedy factor:" + newGreedy);
-            System.out.println("current score:" + lastScore);
-            System.out.println("high score:" + highestScore);
+            float newGreedy = (float) (1f / (float) (highestScore * 200f));
+            if (!stopedLearning) learner.setGreedyFactor(newGreedy);
+            if (generation % 1000 == 0) {
+                System.out.println("current generation:" + generation);
+                System.out.println("new greedy factor:" + newGreedy);
+                System.out.println("average score:" + sumScore / 1000f);
+                sumScore = 0;
+                System.out.println("high score:" + highestScore);
+            }
             lastScore = currentScore;
         } else if (currentDistance < lastDistance) {
             reward = 2;

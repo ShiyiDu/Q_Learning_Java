@@ -5,13 +5,15 @@ import java.util.List;
 import java.util.Random;
 
 public class Q_Learner {
-    private float greedyFactor;
-    private float discountFactor; //how far the future should you see?
-    private float learningRate;
+    private float greedyFactor; //Exploration
+    private float discountFactor; //gamma how far the future should you see?
+    private float learningRate; //alpha
 
     private List<List<Float>> qTable;
     private RewardFunction rewardFunc;//<state, action, reward> used to calculate immediate reward after execution of one action
     private ExecuteFunction executeFunc; //<action, state> execute the action, return the resulting state.
+
+    private boolean stopedLearning = false;
 
     private int State;
 
@@ -27,9 +29,13 @@ public class Q_Learner {
             }
             this.qTable.add(actionRewards);
         }
-
+        stopedLearning = false;
         this.rewardFunc = reward;
         this.executeFunc = execution;
+    }
+
+    public void stopLearning() {
+        this.stopedLearning = true;
     }
 
     public void setqTable(List<List<Float>> newqTable) {
@@ -66,7 +72,8 @@ public class Q_Learner {
             if (q > futureReward) futureReward = q;
         }
 
-        qTable.get(oldState).set(nextMove, (1 - learningRate) * currentQ + learningRate * (reward + discountFactor * futureReward));
+        if (!stopedLearning)
+            qTable.get(oldState).set(nextMove, (1 - learningRate) * currentQ + learningRate * (reward + discountFactor * futureReward));
         this.State = newState;
     }
 
@@ -86,7 +93,7 @@ public class Q_Learner {
         int length = actionArray.size();
         Random rand = new Random();
 
-        if (rand.nextDouble() < greedyFactor) {
+        if (!stopedLearning && rand.nextDouble() < greedyFactor) {
             //choose a random action
             rand.nextInt();
             return (rand.nextInt(length));

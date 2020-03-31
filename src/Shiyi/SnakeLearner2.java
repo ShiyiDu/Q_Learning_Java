@@ -23,12 +23,18 @@ public class SnakeLearner2 {
     private int generation = 0;
     private int highestScore = 0;
     private int sumScore = 0;
+    private boolean stopedLearning = false;
 
     public SnakeLearner2(SnakeGame2 gameModel) {
         this.gameModel = gameModel;
-        this.learner = new Q_Learner(0f, 0.8f, 0.5f, 1048576, 4, this::getReward, this::executeAction);
-        loadData("Snake_learner104857_training_data_gen210000");
-        generation = 210000;
+        this.learner = new Q_Learner(0.2f, 0.8f, 0.5f, 1048576, 4, this::getReward, this::executeAction);
+        loadData("Snake_learner104857_training_data_gen230000");
+        generation = 230000;
+    }
+
+    public void stopLearning() {
+        stopedLearning = true;
+        learner.stopLearning();
     }
 
     public int currentGeneration() {
@@ -126,14 +132,14 @@ public class SnakeLearner2 {
         if (currentScore > lastScore) {
             reward = 3;
             lastScore = currentScore;
-//            System.out.println("current score:" + currentScore);
+            if (stopedLearning) System.out.println("current score:" + currentScore);
         } else if (currentScore < lastScore) {
             reward = -100;
             generation++;
             sumScore += lastScore;
             highestScore = Math.max(lastScore, highestScore);
             float newGreedy = (float) (1f / (float) (highestScore * 200f));
-            learner.setGreedyFactor(newGreedy);
+            if (!stopedLearning) learner.setGreedyFactor(newGreedy);
             if (generation % 100 == 0) {
                 System.out.println("current generation:" + generation);
                 System.out.println("new greedy factor:" + newGreedy);

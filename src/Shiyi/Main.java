@@ -14,6 +14,8 @@ public class Main {
         SnakeGame2 gameModel = new SnakeGame2(20, 20);
         SnakeLearner2 learner = new SnakeLearner2(gameModel);
 
+        learner.stopLearning();
+
         SnakeListener gameListener = new SnakeListener(gameModel.getBody());
 
         initGL(gameListener);
@@ -22,7 +24,7 @@ public class Main {
             learner.learn();
             gameListener.setFinderPosition((int) gameModel.getFinderPosition().getX(), (int) gameModel.getFinderPosition().getY());
             gameListener.setApplePosition((int) gameModel.getApplePosition().getX(), (int) gameModel.getApplePosition().getY());
-            if (learner.currentGeneration() > 220000) TimeUnit.MILLISECONDS.sleep(100);
+            if (learner.currentGeneration() >= 230000) TimeUnit.MILLISECONDS.sleep(100);
 //            else TimeUnit.MILLISECONDS.sleep(10);
         }
     }
@@ -40,7 +42,7 @@ public class Main {
             learner.learn();
             gameListener.setFinderPosition((int) gameModel.getFinderPosition().getX(), (int) gameModel.getFinderPosition().getY());
             gameListener.setApplePosition((int) gameModel.getApplePosition().getX(), (int) gameModel.getApplePosition().getY());
-            if (learner.currentGeneration() > 300) TimeUnit.MILLISECONDS.sleep(100);
+            if (learner.currentGeneration() >= 0) TimeUnit.MILLISECONDS.sleep(100);
 //            else TimeUnit.MILLISECONDS.sleep(10);
         }
     }
