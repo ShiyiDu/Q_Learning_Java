@@ -5,4 +5,4 @@ initAppleFinderGame();
 initSnakeGame();
 initSnakeGame2();
 
-You can also see the code for Q-learning in Q_learner.java file
+You can also see the code for Q-learning in Q_Learner.java file
