@@ -1,0 +1,2807 @@
+current generation:100
+new greedy factor:0.0016666667
+average score:1.3
+high score:3
+current generation:200
+new greedy factor:0.0016666667
+average score:1.7
+high score:3
+current generation:300
+new greedy factor:0.00125
+average score:1.74
+high score:4
+current generation:400
+new greedy factor:0.00125
+average score:2.28
+high score:4
+current generation:500
+new greedy factor:0.001
+average score:2.35
+high score:5
+current generation:600
+new greedy factor:0.001
+average score:2.59
+high score:5
+current generation:700
+new greedy factor:6.25E-4
+average score:3.56
+high score:8
+current generation:800
+new greedy factor:6.25E-4
+average score:3.3
+high score:8
+current generation:900
+new greedy factor:6.25E-4
+average score:3.91
+high score:8
+current generation:1000
+new greedy factor:6.25E-4
+average score:3.69
+high score:8
+current generation:1100
+new greedy factor:5.5555557E-4
+average score:3.83
+high score:9
+current generation:1200
+new greedy factor:5.0E-4
+average score:4.53
+high score:10
+current generation:1300
+new greedy factor:4.1666668E-4
+average score:4.77
+high score:12
+current generation:1400
+new greedy factor:4.1666668E-4
+average score:4.93
+high score:12
+current generation:1500
+new greedy factor:4.1666668E-4
+average score:4.9
+high score:12
+current generation:1600
+new greedy factor:3.5714285E-4
+average score:6.43
+high score:14
+current generation:1700
+new greedy factor:3.3333333E-4
+average score:6.78
+high score:15
+current generation:1800
+new greedy factor:3.3333333E-4
+average score:6.61
+high score:15
+current generation:1900
+new greedy factor:3.125E-4
+average score:6.93
+high score:16
+current generation:2000
+new greedy factor:3.125E-4
+average score:7.18
+high score:16
+current generation:2100
+new greedy factor:3.125E-4
+average score:7.96
+high score:16
+current generation:2200
+new greedy factor:2.9411764E-4
+average score:7.3
+high score:17
+current generation:2300
+new greedy factor:2.7777778E-4
+average score:8.28
+high score:18
+current generation:2400
+new greedy factor:2.1739131E-4
+average score:8.95
+high score:23
+current generation:2500
+new greedy factor:2.1739131E-4
+average score:8.38
+high score:23
+current generation:2600
+new greedy factor:2.1739131E-4
+average score:8.09
+high score:23
+current generation:2700
+new greedy factor:2.0833334E-4
+average score:8.78
+high score:24
+current generation:2800
+new greedy factor:2.0833334E-4
+average score:9.73
+high score:24
+current generation:2900
+new greedy factor:1.8518518E-4
+average score:9.78
+high score:27
+current generation:3000
+new greedy factor:1.8518518E-4
+average score:9.51
+high score:27
+current generation:3100
+new greedy factor:1.8518518E-4
+average score:10.79
+high score:27
+current generation:3200
+new greedy factor:1.8518518E-4
+average score:11.18
+high score:27
+current generation:3300
+new greedy factor:1.8518518E-4
+average score:10.78
+high score:27
+current generation:3400
+new greedy factor:1.8518518E-4
+average score:11.38
+high score:27
+current generation:3500
+new greedy factor:1.8518518E-4
+average score:10.94
+high score:27
+current generation:3600
+new greedy factor:1.8518518E-4
+average score:10.96
+high score:27
+current generation:3700
+new greedy factor:1.8518518E-4
+average score:10.74
+high score:27
+current generation:3800
+new greedy factor:1.8518518E-4
+average score:10.94
+high score:27
+current generation:3900
+new greedy factor:1.8518518E-4
+average score:9.44
+high score:27
+current generation:4000
+new greedy factor:1.8518518E-4
+average score:12.13
+high score:27
+current generation:4100
+new greedy factor:1.8518518E-4
+average score:12.01
+high score:27
+current generation:4200
+new greedy factor:1.8518518E-4
+average score:11.97
+high score:27
+current generation:4300
+new greedy factor:1.4705882E-4
+average score:12.78
+high score:34
+current generation:4400
+new greedy factor:1.4705882E-4
+average score:11.63
+high score:34
+current generation:4500
+new greedy factor:1.4705882E-4
+average score:11.51
+high score:34
+current generation:4600
+new greedy factor:1.4705882E-4
+average score:11.96
+high score:34
+current generation:4700
+new greedy factor:1.4705882E-4
+average score:12.34
+high score:34
+current generation:4800
+new greedy factor:1.4705882E-4
+average score:13.4
+high score:34
+current generation:4900
+new greedy factor:1.4705882E-4
+average score:13.2
+high score:34
+current generation:5000
+new greedy factor:1.4705882E-4
+average score:11.79
+high score:34
+current generation:5100
+new greedy factor:1.4705882E-4
+average score:13.12
+high score:34
+current generation:5200
+new greedy factor:1.4705882E-4
+average score:11.8
+high score:34
+current generation:5300
+new greedy factor:1.4705882E-4
+average score:12.93
+high score:34
+current generation:5400
+new greedy factor:1.3513514E-4
+average score:14.31
+high score:37
+current generation:5500
+new greedy factor:1.3513514E-4
+average score:14.5
+high score:37
+current generation:5600
+new greedy factor:1.3513514E-4
+average score:14.8
+high score:37
+current generation:5700
+new greedy factor:1.3513514E-4
+average score:15.92
+high score:37
+current generation:5800
+new greedy factor:1.3513514E-4
+average score:14.64
+high score:37
+current generation:5900
+new greedy factor:1.3513514E-4
+average score:14.35
+high score:37
+current generation:6000
+new greedy factor:1.3513514E-4
+average score:15.55
+high score:37
+current generation:6100
+new greedy factor:1.3513514E-4
+average score:15.94
+high score:37
+current generation:6200
+new greedy factor:1.3513514E-4
+average score:15.21
+high score:37
+current generation:6300
+new greedy factor:1.3513514E-4
+average score:13.81
+high score:37
+current generation:6400
+new greedy factor:1.3513514E-4
+average score:12.88
+high score:37
+current generation:6500
+new greedy factor:1.3513514E-4
+average score:13.39
+high score:37
+current generation:6600
+new greedy factor:1.3513514E-4
+average score:14.14
+high score:37
+current generation:6700
+new greedy factor:1.3513514E-4
+average score:14.25
+high score:37
+current generation:6800
+new greedy factor:1.3513514E-4
+average score:12.88
+high score:37
+current generation:6900
+new greedy factor:1.3513514E-4
+average score:14.13
+high score:37
+current generation:7000
+new greedy factor:1.3513514E-4
+average score:12.85
+high score:37
+current generation:7100
+new greedy factor:1.3513514E-4
+average score:15.51
+high score:37
+current generation:7200
+new greedy factor:1.25E-4
+average score:16.38
+high score:40
+current generation:7300
+new greedy factor:1.25E-4
+average score:12.95
+high score:40
+current generation:7400
+new greedy factor:1.25E-4
+average score:15.88
+high score:40
+current generation:7500
+new greedy factor:1.25E-4
+average score:14.49
+high score:40
+current generation:7600
+new greedy factor:1.25E-4
+average score:17.43
+high score:40
+current generation:7700
+new greedy factor:1.25E-4
+average score:16.45
+high score:40
+current generation:7800
+new greedy factor:1.25E-4
+average score:17.05
+high score:40
+current generation:7900
+new greedy factor:1.25E-4
+average score:17.17
+high score:40
+current generation:8000
+new greedy factor:1.25E-4
+average score:15.18
+high score:40
+current generation:8100
+new greedy factor:1.25E-4
+average score:15.93
+high score:40
+current generation:8200
+new greedy factor:1.25E-4
+average score:16.52
+high score:40
+current generation:8300
+new greedy factor:1.25E-4
+average score:15.78
+high score:40
+current generation:8400
+new greedy factor:1.25E-4
+average score:13.6
+high score:40
+current generation:8500
+new greedy factor:1.25E-4
+average score:11.77
+high score:40
+current generation:8600
+new greedy factor:1.25E-4
+average score:13.84
+high score:40
+current generation:8700
+new greedy factor:1.25E-4
+average score:12.85
+high score:40
+current generation:8800
+new greedy factor:1.25E-4
+average score:13.24
+high score:40
+current generation:8900
+new greedy factor:1.25E-4
+average score:14.53
+high score:40
+current generation:9000
+new greedy factor:1.25E-4
+average score:15.81
+high score:40
+current generation:9100
+new greedy factor:1.25E-4
+average score:16.72
+high score:40
+current generation:9200
+new greedy factor:1.25E-4
+average score:16.8
+high score:40
+current generation:9300
+new greedy factor:1.25E-4
+average score:16.15
+high score:40
+current generation:9400
+new greedy factor:1.25E-4
+average score:16.92
+high score:40
+current generation:9500
+new greedy factor:1.25E-4
+average score:18.19
+high score:40
+current generation:9600
+new greedy factor:1.25E-4
+average score:18.19
+high score:40
+current generation:9700
+new greedy factor:1.25E-4
+average score:15.08
+high score:40
+current generation:9800
+new greedy factor:1.25E-4
+average score:18.63
+high score:40
+current generation:9900
+new greedy factor:1.25E-4
+average score:18.39
+high score:40
+current generation:10000
+new greedy factor:1.25E-4
+average score:15.75
+high score:40
+data saved
+current generation:10100
+new greedy factor:1.2195122E-4
+average score:14.16
+high score:41
+current generation:10200
+new greedy factor:1.2195122E-4
+average score:18.95
+high score:41
+current generation:10300
+new greedy factor:1.2195122E-4
+average score:16.24
+high score:41
+current generation:10400
+new greedy factor:1.1904762E-4
+average score:21.04
+high score:42
+current generation:10500
+new greedy factor:1.1904762E-4
+average score:19.71
+high score:42
+current generation:10600
+new greedy factor:1.1904762E-4
+average score:19.79
+high score:42
+current generation:10700
+new greedy factor:1.1904762E-4
+average score:18.16
+high score:42
+current generation:10800
+new greedy factor:1.1904762E-4
+average score:16.83
+high score:42
+current generation:10900
+new greedy factor:1.1904762E-4
+average score:19.06
+high score:42
+current generation:11000
+new greedy factor:1.1904762E-4
+average score:16.71
+high score:42
+current generation:11100
+new greedy factor:1.1904762E-4
+average score:16.97
+high score:42
+current generation:11200
+new greedy factor:1.1904762E-4
+average score:16.46
+high score:42
+current generation:11300
+new greedy factor:1.1904762E-4
+average score:18.3
+high score:42
+current generation:11400
+new greedy factor:1.1904762E-4
+average score:17.76
+high score:42
+current generation:11500
+new greedy factor:1.1904762E-4
+average score:17.02
+high score:42
+current generation:11600
+new greedy factor:1.1904762E-4
+average score:15.19
+high score:42
+current generation:11700
+new greedy factor:1.1904762E-4
+average score:16.52
+high score:42
+current generation:11800
+new greedy factor:1.1904762E-4
+average score:16.49
+high score:42
+current generation:11900
+new greedy factor:1.1904762E-4
+average score:18.92
+high score:42
+current generation:12000
+new greedy factor:1.1904762E-4
+average score:18.28
+high score:42
+current generation:12100
+new greedy factor:1.1904762E-4
+average score:19.58
+high score:42
+current generation:12200
+new greedy factor:1.1904762E-4
+average score:19.14
+high score:42
+current generation:12300
+new greedy factor:1.1904762E-4
+average score:17.68
+high score:42
+current generation:12400
+new greedy factor:1.1904762E-4
+average score:19.35
+high score:42
+current generation:12500
+new greedy factor:1.1904762E-4
+average score:19.05
+high score:42
+current generation:12600
+new greedy factor:1.1904762E-4
+average score:18.88
+high score:42
+current generation:12700
+new greedy factor:1.1904762E-4
+average score:19.8
+high score:42
+current generation:12800
+new greedy factor:1.1904762E-4
+average score:19.25
+high score:42
+current generation:12900
+new greedy factor:1.1904762E-4
+average score:20.85
+high score:42
+current generation:13000
+new greedy factor:1.1111111E-4
+average score:19.29
+high score:45
+current generation:13100
+new greedy factor:1.1111111E-4
+average score:19.46
+high score:45
+current generation:13200
+new greedy factor:1.1111111E-4
+average score:19.65
+high score:45
+current generation:13300
+new greedy factor:1.1111111E-4
+average score:19.12
+high score:45
+current generation:13400
+new greedy factor:1.1111111E-4
+average score:19.38
+high score:45
+current generation:13500
+new greedy factor:1.1111111E-4
+average score:20.53
+high score:45
+current generation:13600
+new greedy factor:1.0638298E-4
+average score:21.78
+high score:47
+current generation:13700
+new greedy factor:1.0638298E-4
+average score:20.35
+high score:47
+current generation:13800
+new greedy factor:1.0638298E-4
+average score:20.78
+high score:47
+current generation:13900
+new greedy factor:1.0638298E-4
+average score:19.81
+high score:47
+current generation:14000
+new greedy factor:1.0638298E-4
+average score:18.75
+high score:47
+current generation:14100
+new greedy factor:1.0638298E-4
+average score:20.02
+high score:47
+current generation:14200
+new greedy factor:1.0638298E-4
+average score:22.71
+high score:47
+current generation:14300
+new greedy factor:1.0638298E-4
+average score:24.51
+high score:47
+current generation:14400
+new greedy factor:1.0638298E-4
+average score:17.38
+high score:47
+current generation:14500
+new greedy factor:1.0638298E-4
+average score:22.54
+high score:47
+current generation:14600
+new greedy factor:1.0638298E-4
+average score:21.35
+high score:47
+current generation:14700
+new greedy factor:1.02040816E-4
+average score:17.88
+high score:49
+current generation:14800
+new greedy factor:1.02040816E-4
+average score:18.39
+high score:49
+current generation:14900
+new greedy factor:1.02040816E-4
+average score:20.83
+high score:49
+current generation:15000
+new greedy factor:1.02040816E-4
+average score:22.59
+high score:49
+current generation:15100
+new greedy factor:1.02040816E-4
+average score:22.92
+high score:49
+current generation:15200
+new greedy factor:1.02040816E-4
+average score:20.85
+high score:49
+current generation:15300
+new greedy factor:1.02040816E-4
+average score:21.22
+high score:49
+current generation:15400
+new greedy factor:1.02040816E-4
+average score:14.92
+high score:49
+current generation:15500
+new greedy factor:1.02040816E-4
+average score:15.09
+high score:49
+current generation:15600
+new greedy factor:1.02040816E-4
+average score:18.66
+high score:49
+current generation:15700
+new greedy factor:1.02040816E-4
+average score:18.46
+high score:49
+current generation:15800
+new greedy factor:1.02040816E-4
+average score:19.35
+high score:49
+current generation:15900
+new greedy factor:1.02040816E-4
+average score:21.87
+high score:49
+current generation:16000
+new greedy factor:1.02040816E-4
+average score:20.56
+high score:49
+current generation:16100
+new greedy factor:1.02040816E-4
+average score:19.56
+high score:49
+current generation:16200
+new greedy factor:1.02040816E-4
+average score:20.79
+high score:49
+current generation:16300
+new greedy factor:1.02040816E-4
+average score:19.84
+high score:49
+current generation:16400
+new greedy factor:1.02040816E-4
+average score:21.12
+high score:49
+current generation:16500
+new greedy factor:1.02040816E-4
+average score:16.68
+high score:49
+current generation:16600
+new greedy factor:1.02040816E-4
+average score:20.37
+high score:49
+current generation:16700
+new greedy factor:1.02040816E-4
+average score:23.49
+high score:49
+current generation:16800
+new greedy factor:1.02040816E-4
+average score:22.97
+high score:49
+current generation:16900
+new greedy factor:1.02040816E-4
+average score:19.5
+high score:49
+current generation:17000
+new greedy factor:1.02040816E-4
+average score:16.89
+high score:49
+current generation:17100
+new greedy factor:1.02040816E-4
+average score:20.99
+high score:49
+current generation:17200
+new greedy factor:1.02040816E-4
+average score:22.27
+high score:49
+current generation:17300
+new greedy factor:1.02040816E-4
+average score:21.69
+high score:49
+current generation:17400
+new greedy factor:1.02040816E-4
+average score:25.54
+high score:49
+current generation:17500
+new greedy factor:1.02040816E-4
+average score:22.85
+high score:49
+current generation:17600
+new greedy factor:1.02040816E-4
+average score:22.5
+high score:49
+current generation:17700
+new greedy factor:1.02040816E-4
+average score:22.57
+high score:49
+current generation:17800
+new greedy factor:1.02040816E-4
+average score:21.6
+high score:49
+current generation:17900
+new greedy factor:1.02040816E-4
+average score:22.96
+high score:49
+current generation:18000
+new greedy factor:1.02040816E-4
+average score:19.91
+high score:49
+current generation:18100
+new greedy factor:1.02040816E-4
+average score:21.24
+high score:49
+current generation:18200
+new greedy factor:1.02040816E-4
+average score:18.25
+high score:49
+current generation:18300
+new greedy factor:1.02040816E-4
+average score:22.2
+high score:49
+current generation:18400
+new greedy factor:1.02040816E-4
+average score:23.81
+high score:49
+current generation:18500
+new greedy factor:9.8039214E-5
+average score:25.24
+high score:51
+current generation:18600
+new greedy factor:9.8039214E-5
+average score:24.46
+high score:51
+current generation:18700
+new greedy factor:9.8039214E-5
+average score:22.11
+high score:51
+current generation:18800
+new greedy factor:9.8039214E-5
+average score:20.82
+high score:51
+current generation:18900
+new greedy factor:9.8039214E-5
+average score:22.62
+high score:51
+current generation:19000
+new greedy factor:9.8039214E-5
+average score:25.13
+high score:51
+current generation:19100
+new greedy factor:9.8039214E-5
+average score:23.39
+high score:51
+current generation:19200
+new greedy factor:9.8039214E-5
+average score:22.51
+high score:51
+current generation:19300
+new greedy factor:9.090909E-5
+average score:26.26
+high score:55
+current generation:19400
+new greedy factor:9.090909E-5
+average score:25.32
+high score:55
+current generation:19500
+new greedy factor:9.090909E-5
+average score:25.74
+high score:55
+current generation:19600
+new greedy factor:9.090909E-5
+average score:27.03
+high score:55
+current generation:19700
+new greedy factor:9.090909E-5
+average score:25.08
+high score:55
+current generation:19800
+new greedy factor:9.090909E-5
+average score:25.63
+high score:55
+current generation:19900
+new greedy factor:9.090909E-5
+average score:25.93
+high score:55
+current generation:20000
+new greedy factor:9.090909E-5
+average score:25.07
+high score:55
+data saved
+current generation:20100
+new greedy factor:9.090909E-5
+average score:22.31
+high score:55
+current generation:20200
+new greedy factor:9.090909E-5
+average score:18.61
+high score:55
+current generation:20300
+new greedy factor:9.090909E-5
+average score:18.47
+high score:55
+current generation:20400
+new greedy factor:9.090909E-5
+average score:16.58
+high score:55
+current generation:20500
+new greedy factor:9.090909E-5
+average score:21.58
+high score:55
+current generation:20600
+new greedy factor:9.090909E-5
+average score:24.02
+high score:55
+current generation:20700
+new greedy factor:9.090909E-5
+average score:21.03
+high score:55
+current generation:20800
+new greedy factor:9.090909E-5
+average score:20.34
+high score:55
+current generation:20900
+new greedy factor:9.090909E-5
+average score:21.68
+high score:55
+current generation:21000
+new greedy factor:9.090909E-5
+average score:21.2
+high score:55
+current generation:21100
+new greedy factor:9.090909E-5
+average score:21.9
+high score:55
+current generation:21200
+new greedy factor:9.090909E-5
+average score:23.93
+high score:55
+current generation:21300
+new greedy factor:9.090909E-5
+average score:23.59
+high score:55
+current generation:21400
+new greedy factor:9.090909E-5
+average score:23.68
+high score:55
+current generation:21500
+new greedy factor:9.090909E-5
+average score:24.46
+high score:55
+current generation:21600
+new greedy factor:9.090909E-5
+average score:18.71
+high score:55
+current generation:21700
+new greedy factor:9.090909E-5
+average score:23.21
+high score:55
+current generation:21800
+new greedy factor:9.090909E-5
+average score:24.11
+high score:55
+current generation:21900
+new greedy factor:9.090909E-5
+average score:23.18
+high score:55
+current generation:22000
+new greedy factor:9.090909E-5
+average score:22.83
+high score:55
+current generation:22100
+new greedy factor:9.090909E-5
+average score:22.83
+high score:55
+current generation:22200
+new greedy factor:9.090909E-5
+average score:22.34
+high score:55
+current generation:22300
+new greedy factor:9.090909E-5
+average score:24.84
+high score:55
+current generation:22400
+new greedy factor:9.090909E-5
+average score:27.86
+high score:55
+current generation:22500
+new greedy factor:9.090909E-5
+average score:26.49
+high score:55
+current generation:22600
+new greedy factor:9.090909E-5
+average score:26.11
+high score:55
+current generation:22700
+new greedy factor:9.090909E-5
+average score:24.06
+high score:55
+current generation:22800
+new greedy factor:9.090909E-5
+average score:19.95
+high score:55
+current generation:22900
+new greedy factor:9.090909E-5
+average score:26.04
+high score:55
+current generation:23000
+new greedy factor:9.090909E-5
+average score:25.32
+high score:55
+current generation:23100
+new greedy factor:9.090909E-5
+average score:24.92
+high score:55
+current generation:23200
+new greedy factor:9.090909E-5
+average score:24.17
+high score:55
+current generation:23300
+new greedy factor:9.090909E-5
+average score:22.3
+high score:55
+current generation:23400
+new greedy factor:9.090909E-5
+average score:23.3
+high score:55
+current generation:23500
+new greedy factor:9.090909E-5
+average score:21.95
+high score:55
+current generation:23600
+new greedy factor:9.090909E-5
+average score:23.76
+high score:55
+current generation:23700
+new greedy factor:9.090909E-5
+average score:25.88
+high score:55
+current generation:23800
+new greedy factor:9.090909E-5
+average score:24.33
+high score:55
+current generation:23900
+new greedy factor:9.090909E-5
+average score:26.68
+high score:55
+current generation:24000
+new greedy factor:9.090909E-5
+average score:23.73
+high score:55
+current generation:24100
+new greedy factor:9.090909E-5
+average score:22.38
+high score:55
+current generation:24200
+new greedy factor:9.090909E-5
+average score:27.19
+high score:55
+current generation:24300
+new greedy factor:9.090909E-5
+average score:25.38
+high score:55
+current generation:24400
+new greedy factor:9.090909E-5
+average score:24.36
+high score:55
+current generation:24500
+new greedy factor:9.090909E-5
+average score:22.9
+high score:55
+current generation:24600
+new greedy factor:9.090909E-5
+average score:24.13
+high score:55
+current generation:24700
+new greedy factor:9.090909E-5
+average score:23.59
+high score:55
+current generation:24800
+new greedy factor:9.090909E-5
+average score:22.31
+high score:55
+current generation:24900
+new greedy factor:9.090909E-5
+average score:24.81
+high score:55
+current generation:25000
+new greedy factor:9.090909E-5
+average score:25.13
+high score:55
+current generation:25100
+new greedy factor:9.090909E-5
+average score:23.78
+high score:55
+current generation:25200
+new greedy factor:9.090909E-5
+average score:23.57
+high score:55
+current generation:25300
+new greedy factor:9.090909E-5
+average score:24.07
+high score:55
+current generation:25400
+new greedy factor:9.090909E-5
+average score:26.44
+high score:55
+current generation:25500
+new greedy factor:9.090909E-5
+average score:25.08
+high score:55
+current generation:25600
+new greedy factor:9.090909E-5
+average score:28.53
+high score:55
+current generation:25700
+new greedy factor:9.090909E-5
+average score:29.05
+high score:55
+current generation:25800
+new greedy factor:9.090909E-5
+average score:26.26
+high score:55
+current generation:25900
+new greedy factor:9.090909E-5
+average score:25.15
+high score:55
+current generation:26000
+new greedy factor:9.090909E-5
+average score:23.63
+high score:55
+current generation:26100
+new greedy factor:9.090909E-5
+average score:28.56
+high score:55
+current generation:26200
+new greedy factor:9.090909E-5
+average score:29.2
+high score:55
+current generation:26300
+new greedy factor:9.090909E-5
+average score:26.91
+high score:55
+current generation:26400
+new greedy factor:8.333333E-5
+average score:29.34
+high score:60
+current generation:26500
+new greedy factor:8.333333E-5
+average score:27.03
+high score:60
+current generation:26600
+new greedy factor:8.333333E-5
+average score:25.25
+high score:60
+current generation:26700
+new greedy factor:8.333333E-5
+average score:25.64
+high score:60
+current generation:26800
+new greedy factor:8.333333E-5
+average score:23.99
+high score:60
+current generation:26900
+new greedy factor:8.333333E-5
+average score:26.13
+high score:60
+current generation:27000
+new greedy factor:8.333333E-5
+average score:24.29
+high score:60
+current generation:27100
+new greedy factor:8.333333E-5
+average score:26.12
+high score:60
+current generation:27200
+new greedy factor:8.333333E-5
+average score:26.25
+high score:60
+current generation:27300
+new greedy factor:8.333333E-5
+average score:23.13
+high score:60
+current generation:27400
+new greedy factor:8.333333E-5
+average score:25.98
+high score:60
+current generation:27500
+new greedy factor:8.333333E-5
+average score:23.96
+high score:60
+current generation:27600
+new greedy factor:8.333333E-5
+average score:27.65
+high score:60
+current generation:27700
+new greedy factor:8.333333E-5
+average score:22.79
+high score:60
+current generation:27800
+new greedy factor:8.333333E-5
+average score:25.79
+high score:60
+current generation:27900
+new greedy factor:8.333333E-5
+average score:27.29
+high score:60
+current generation:28000
+new greedy factor:8.333333E-5
+average score:22.91
+high score:60
+current generation:28100
+new greedy factor:8.333333E-5
+average score:24.53
+high score:60
+current generation:28200
+new greedy factor:8.333333E-5
+average score:23.74
+high score:60
+current generation:28300
+new greedy factor:8.333333E-5
+average score:28.0
+high score:60
+current generation:28400
+new greedy factor:8.333333E-5
+average score:25.74
+high score:60
+current generation:28500
+new greedy factor:8.333333E-5
+average score:28.3
+high score:60
+current generation:28600
+new greedy factor:8.333333E-5
+average score:27.94
+high score:60
+current generation:28700
+new greedy factor:8.333333E-5
+average score:26.08
+high score:60
+current generation:28800
+new greedy factor:8.333333E-5
+average score:26.02
+high score:60
+current generation:28900
+new greedy factor:8.333333E-5
+average score:27.77
+high score:60
+current generation:29000
+new greedy factor:8.333333E-5
+average score:30.54
+high score:60
+current generation:29100
+new greedy factor:8.333333E-5
+average score:30.41
+high score:60
+current generation:29200
+new greedy factor:8.333333E-5
+average score:28.39
+high score:60
+current generation:29300
+new greedy factor:8.333333E-5
+average score:30.16
+high score:60
+current generation:29400
+new greedy factor:8.333333E-5
+average score:27.82
+high score:60
+current generation:29500
+new greedy factor:8.333333E-5
+average score:27.01
+high score:60
+current generation:29600
+new greedy factor:8.333333E-5
+average score:28.17
+high score:60
+current generation:29700
+new greedy factor:8.333333E-5
+average score:28.59
+high score:60
+current generation:29800
+new greedy factor:8.333333E-5
+average score:24.83
+high score:60
+current generation:29900
+new greedy factor:8.333333E-5
+average score:26.4
+high score:60
+current generation:30000
+new greedy factor:8.333333E-5
+average score:28.5
+high score:60
+data saved
+current generation:30100
+new greedy factor:8.333333E-5
+average score:27.26
+high score:60
+current generation:30200
+new greedy factor:8.333333E-5
+average score:30.4
+high score:60
+current generation:30300
+new greedy factor:8.333333E-5
+average score:30.06
+high score:60
+current generation:30400
+new greedy factor:8.333333E-5
+average score:29.76
+high score:60
+current generation:30500
+new greedy factor:8.333333E-5
+average score:29.98
+high score:60
+current generation:30600
+new greedy factor:8.333333E-5
+average score:31.63
+high score:60
+current generation:30700
+new greedy factor:8.333333E-5
+average score:27.73
+high score:60
+current generation:30800
+new greedy factor:8.333333E-5
+average score:28.28
+high score:60
+current generation:30900
+new greedy factor:8.333333E-5
+average score:25.15
+high score:60
+current generation:31000
+new greedy factor:8.333333E-5
+average score:25.54
+high score:60
+current generation:31100
+new greedy factor:8.333333E-5
+average score:28.62
+high score:60
+current generation:31200
+new greedy factor:8.333333E-5
+average score:31.65
+high score:60
+current generation:31300
+new greedy factor:8.333333E-5
+average score:31.95
+high score:60
+current generation:31400
+new greedy factor:8.333333E-5
+average score:30.49
+high score:60
+current generation:31500
+new greedy factor:8.333333E-5
+average score:30.36
+high score:60
+current generation:31600
+new greedy factor:8.333333E-5
+average score:29.42
+high score:60
+current generation:31700
+new greedy factor:8.333333E-5
+average score:29.74
+high score:60
+current generation:31800
+new greedy factor:8.333333E-5
+average score:28.53
+high score:60
+current generation:31900
+new greedy factor:8.333333E-5
+average score:25.97
+high score:60
+current generation:32000
+new greedy factor:8.196721E-5
+average score:29.23
+high score:61
+current generation:32100
+new greedy factor:8.196721E-5
+average score:25.6
+high score:61
+current generation:32200
+new greedy factor:8.196721E-5
+average score:27.08
+high score:61
+current generation:32300
+new greedy factor:8.196721E-5
+average score:26.43
+high score:61
+current generation:32400
+new greedy factor:8.196721E-5
+average score:26.03
+high score:61
+current generation:32500
+new greedy factor:8.196721E-5
+average score:27.13
+high score:61
+current generation:32600
+new greedy factor:8.196721E-5
+average score:28.33
+high score:61
+current generation:32700
+new greedy factor:8.196721E-5
+average score:27.5
+high score:61
+current generation:32800
+new greedy factor:8.196721E-5
+average score:26.54
+high score:61
+current generation:32900
+new greedy factor:8.196721E-5
+average score:30.52
+high score:61
+current generation:33000
+new greedy factor:7.6923076E-5
+average score:28.62
+high score:65
+current generation:33100
+new greedy factor:7.6923076E-5
+average score:29.55
+high score:65
+current generation:33200
+new greedy factor:7.6923076E-5
+average score:30.64
+high score:65
+current generation:33300
+new greedy factor:7.6923076E-5
+average score:27.05
+high score:65
+current generation:33400
+new greedy factor:7.6923076E-5
+average score:25.67
+high score:65
+current generation:33500
+new greedy factor:7.6923076E-5
+average score:25.91
+high score:65
+current generation:33600
+new greedy factor:7.6923076E-5
+average score:28.97
+high score:65
+current generation:33700
+new greedy factor:7.6923076E-5
+average score:26.36
+high score:65
+current generation:33800
+new greedy factor:7.6923076E-5
+average score:31.36
+high score:65
+current generation:33900
+new greedy factor:7.6923076E-5
+average score:27.06
+high score:65
+current generation:34000
+new greedy factor:7.6923076E-5
+average score:27.19
+high score:65
+current generation:34100
+new greedy factor:7.6923076E-5
+average score:29.02
+high score:65
+current generation:34200
+new greedy factor:7.6923076E-5
+average score:29.03
+high score:65
+current generation:34300
+new greedy factor:7.6923076E-5
+average score:28.05
+high score:65
+current generation:34400
+new greedy factor:7.6923076E-5
+average score:31.86
+high score:65
+current generation:34500
+new greedy factor:7.6923076E-5
+average score:28.84
+high score:65
+current generation:34600
+new greedy factor:7.6923076E-5
+average score:27.72
+high score:65
+current generation:34700
+new greedy factor:7.6923076E-5
+average score:28.83
+high score:65
+current generation:34800
+new greedy factor:7.6923076E-5
+average score:27.96
+high score:65
+current generation:34900
+new greedy factor:7.6923076E-5
+average score:29.26
+high score:65
+current generation:35000
+new greedy factor:7.6923076E-5
+average score:31.06
+high score:65
+current generation:35100
+new greedy factor:7.6923076E-5
+average score:30.0
+high score:65
+current generation:35200
+new greedy factor:7.6923076E-5
+average score:27.35
+high score:65
+current generation:35300
+new greedy factor:7.6923076E-5
+average score:31.06
+high score:65
+current generation:35400
+new greedy factor:7.6923076E-5
+average score:27.74
+high score:65
+current generation:35500
+new greedy factor:7.6923076E-5
+average score:27.99
+high score:65
+current generation:35600
+new greedy factor:7.6923076E-5
+average score:25.99
+high score:65
+current generation:35700
+new greedy factor:7.6923076E-5
+average score:28.99
+high score:65
+current generation:35800
+new greedy factor:7.6923076E-5
+average score:29.42
+high score:65
+current generation:35900
+new greedy factor:7.6923076E-5
+average score:28.1
+high score:65
+current generation:36000
+new greedy factor:7.6923076E-5
+average score:26.28
+high score:65
+current generation:36100
+new greedy factor:7.6923076E-5
+average score:29.26
+high score:65
+current generation:36200
+new greedy factor:7.6923076E-5
+average score:32.19
+high score:65
+current generation:36300
+new greedy factor:7.6923076E-5
+average score:28.82
+high score:65
+current generation:36400
+new greedy factor:7.6923076E-5
+average score:31.18
+high score:65
+current generation:36500
+new greedy factor:7.6923076E-5
+average score:32.3
+high score:65
+current generation:36600
+new greedy factor:7.6923076E-5
+average score:29.98
+high score:65
+current generation:36700
+new greedy factor:7.6923076E-5
+average score:29.54
+high score:65
+current generation:36800
+new greedy factor:7.6923076E-5
+average score:29.52
+high score:65
+current generation:36900
+new greedy factor:7.6923076E-5
+average score:28.67
+high score:65
+current generation:37000
+new greedy factor:7.6923076E-5
+average score:30.12
+high score:65
+current generation:37100
+new greedy factor:7.6923076E-5
+average score:30.6
+high score:65
+current generation:37200
+new greedy factor:7.6923076E-5
+average score:32.75
+high score:65
+current generation:37300
+new greedy factor:7.6923076E-5
+average score:32.36
+high score:65
+current generation:37400
+new greedy factor:7.6923076E-5
+average score:31.82
+high score:65
+current generation:37500
+new greedy factor:7.6923076E-5
+average score:33.59
+high score:65
+current generation:37600
+new greedy factor:7.6923076E-5
+average score:34.63
+high score:65
+current generation:37700
+new greedy factor:7.6923076E-5
+average score:31.22
+high score:65
+current generation:37800
+new greedy factor:7.6923076E-5
+average score:31.2
+high score:65
+current generation:37900
+new greedy factor:7.6923076E-5
+average score:30.44
+high score:65
+current generation:38000
+new greedy factor:7.6923076E-5
+average score:28.92
+high score:65
+current generation:38100
+new greedy factor:7.6923076E-5
+average score:31.51
+high score:65
+current generation:38200
+new greedy factor:7.6923076E-5
+average score:33.16
+high score:65
+current generation:38300
+new greedy factor:7.6923076E-5
+average score:32.54
+high score:65
+current generation:38400
+new greedy factor:7.6923076E-5
+average score:33.97
+high score:65
+current generation:38500
+new greedy factor:7.6923076E-5
+average score:31.13
+high score:65
+current generation:38600
+new greedy factor:7.6923076E-5
+average score:31.96
+high score:65
+current generation:38700
+new greedy factor:7.6923076E-5
+average score:28.73
+high score:65
+current generation:38800
+new greedy factor:7.6923076E-5
+average score:29.17
+high score:65
+current generation:38900
+new greedy factor:7.6923076E-5
+average score:33.28
+high score:65
+current generation:39000
+new greedy factor:7.6923076E-5
+average score:31.95
+high score:65
+current generation:39100
+new greedy factor:7.6923076E-5
+average score:29.49
+high score:65
+current generation:39200
+new greedy factor:7.6923076E-5
+average score:25.62
+high score:65
+current generation:39300
+new greedy factor:7.6923076E-5
+average score:26.05
+high score:65
+current generation:39400
+new greedy factor:7.6923076E-5
+average score:28.55
+high score:65
+current generation:39500
+new greedy factor:7.2463765E-5
+average score:31.68
+high score:69
+current generation:39600
+new greedy factor:7.2463765E-5
+average score:32.28
+high score:69
+current generation:39700
+new greedy factor:7.2463765E-5
+average score:33.4
+high score:69
+current generation:39800
+new greedy factor:7.2463765E-5
+average score:33.5
+high score:69
+current generation:39900
+new greedy factor:7.2463765E-5
+average score:33.82
+high score:69
+current generation:40000
+new greedy factor:7.2463765E-5
+average score:32.52
+high score:69
+data saved
+current generation:40100
+new greedy factor:7.2463765E-5
+average score:32.28
+high score:69
+current generation:40200
+new greedy factor:7.2463765E-5
+average score:27.52
+high score:69
+current generation:40300
+new greedy factor:7.2463765E-5
+average score:24.58
+high score:69
+current generation:40400
+new greedy factor:7.2463765E-5
+average score:26.0
+high score:69
+current generation:40500
+new greedy factor:7.2463765E-5
+average score:34.42
+high score:69
+current generation:40600
+new greedy factor:7.2463765E-5
+average score:34.83
+high score:69
+current generation:40700
+new greedy factor:7.2463765E-5
+average score:31.58
+high score:69
+current generation:40800
+new greedy factor:7.2463765E-5
+average score:31.42
+high score:69
+current generation:40900
+new greedy factor:7.2463765E-5
+average score:30.47
+high score:69
+current generation:41000
+new greedy factor:7.2463765E-5
+average score:33.03
+high score:69
+current generation:41100
+new greedy factor:7.2463765E-5
+average score:33.1
+high score:69
+current generation:41200
+new greedy factor:7.2463765E-5
+average score:33.82
+high score:69
+current generation:41300
+new greedy factor:7.2463765E-5
+average score:33.49
+high score:69
+current generation:41400
+new greedy factor:7.2463765E-5
+average score:32.01
+high score:69
+current generation:41500
+new greedy factor:7.2463765E-5
+average score:33.91
+high score:69
+current generation:41600
+new greedy factor:7.2463765E-5
+average score:33.18
+high score:69
+current generation:41700
+new greedy factor:7.2463765E-5
+average score:31.62
+high score:69
+current generation:41800
+new greedy factor:7.2463765E-5
+average score:30.03
+high score:69
+current generation:41900
+new greedy factor:7.2463765E-5
+average score:30.46
+high score:69
+current generation:42000
+new greedy factor:7.2463765E-5
+average score:32.42
+high score:69
+current generation:42100
+new greedy factor:7.2463765E-5
+average score:30.21
+high score:69
+current generation:42200
+new greedy factor:7.2463765E-5
+average score:30.9
+high score:69
+current generation:42300
+new greedy factor:7.2463765E-5
+average score:30.6
+high score:69
+current generation:42400
+new greedy factor:7.2463765E-5
+average score:30.94
+high score:69
+current generation:42500
+new greedy factor:7.2463765E-5
+average score:26.34
+high score:69
+current generation:42600
+new greedy factor:7.2463765E-5
+average score:23.49
+high score:69
+current generation:42700
+new greedy factor:7.2463765E-5
+average score:32.67
+high score:69
+current generation:42800
+new greedy factor:7.2463765E-5
+average score:30.84
+high score:69
+current generation:42900
+new greedy factor:7.2463765E-5
+average score:29.44
+high score:69
+current generation:43000
+new greedy factor:7.2463765E-5
+average score:29.8
+high score:69
+current generation:43100
+new greedy factor:7.2463765E-5
+average score:31.54
+high score:69
+current generation:43200
+new greedy factor:7.2463765E-5
+average score:31.13
+high score:69
+current generation:43300
+new greedy factor:7.2463765E-5
+average score:28.58
+high score:69
+current generation:43400
+new greedy factor:7.2463765E-5
+average score:32.82
+high score:69
+current generation:43500
+new greedy factor:7.2463765E-5
+average score:30.6
+high score:69
+current generation:43600
+new greedy factor:7.2463765E-5
+average score:35.11
+high score:69
+current generation:43700
+new greedy factor:7.2463765E-5
+average score:34.4
+high score:69
+current generation:43800
+new greedy factor:7.2463765E-5
+average score:29.9
+high score:69
+current generation:43900
+new greedy factor:7.2463765E-5
+average score:32.55
+high score:69
+current generation:44000
+new greedy factor:7.2463765E-5
+average score:30.5
+high score:69
+current generation:44100
+new greedy factor:7.2463765E-5
+average score:31.47
+high score:69
+current generation:44200
+new greedy factor:7.2463765E-5
+average score:32.12
+high score:69
+current generation:44300
+new greedy factor:7.2463765E-5
+average score:31.46
+high score:69
+current generation:44400
+new greedy factor:7.2463765E-5
+average score:31.63
+high score:69
+current generation:44500
+new greedy factor:7.2463765E-5
+average score:30.49
+high score:69
+current generation:44600
+new greedy factor:7.2463765E-5
+average score:30.47
+high score:69
+current generation:44700
+new greedy factor:7.2463765E-5
+average score:29.92
+high score:69
+current generation:44800
+new greedy factor:7.2463765E-5
+average score:32.02
+high score:69
+current generation:44900
+new greedy factor:7.2463765E-5
+average score:33.85
+high score:69
+current generation:45000
+new greedy factor:7.2463765E-5
+average score:33.85
+high score:69
+current generation:45100
+new greedy factor:7.2463765E-5
+average score:32.88
+high score:69
+current generation:45200
+new greedy factor:7.2463765E-5
+average score:31.99
+high score:69
+current generation:45300
+new greedy factor:7.2463765E-5
+average score:32.59
+high score:69
+current generation:45400
+new greedy factor:7.2463765E-5
+average score:34.12
+high score:69
+current generation:45500
+new greedy factor:6.849315E-5
+average score:34.77
+high score:73
+current generation:45600
+new greedy factor:6.849315E-5
+average score:33.26
+high score:73
+current generation:45700
+new greedy factor:6.849315E-5
+average score:33.64
+high score:73
+current generation:45800
+new greedy factor:6.849315E-5
+average score:31.88
+high score:73
+current generation:45900
+new greedy factor:6.849315E-5
+average score:31.46
+high score:73
+current generation:46000
+new greedy factor:6.849315E-5
+average score:32.78
+high score:73
+current generation:46100
+new greedy factor:6.849315E-5
+average score:28.13
+high score:73
+current generation:46200
+new greedy factor:6.849315E-5
+average score:27.8
+high score:73
+current generation:46300
+new greedy factor:6.849315E-5
+average score:31.3
+high score:73
+current generation:46400
+new greedy factor:6.849315E-5
+average score:30.52
+high score:73
+current generation:46500
+new greedy factor:6.849315E-5
+average score:31.38
+high score:73
+current generation:46600
+new greedy factor:6.849315E-5
+average score:30.28
+high score:73
+current generation:46700
+new greedy factor:6.849315E-5
+average score:26.71
+high score:73
+current generation:46800
+new greedy factor:6.849315E-5
+average score:34.09
+high score:73
+current generation:46900
+new greedy factor:6.849315E-5
+average score:31.17
+high score:73
+current generation:47000
+new greedy factor:6.849315E-5
+average score:33.2
+high score:73
+current generation:47100
+new greedy factor:6.849315E-5
+average score:28.67
+high score:73
+current generation:47200
+new greedy factor:6.849315E-5
+average score:31.72
+high score:73
+current generation:47300
+new greedy factor:6.849315E-5
+average score:28.21
+high score:73
+current generation:47400
+new greedy factor:6.849315E-5
+average score:31.29
+high score:73
+current generation:47500
+new greedy factor:6.849315E-5
+average score:32.67
+high score:73
+current generation:47600
+new greedy factor:6.849315E-5
+average score:31.92
+high score:73
+current generation:47700
+new greedy factor:6.849315E-5
+average score:32.59
+high score:73
+current generation:47800
+new greedy factor:6.849315E-5
+average score:31.63
+high score:73
+current generation:47900
+new greedy factor:6.849315E-5
+average score:35.21
+high score:73
+current generation:48000
+new greedy factor:6.849315E-5
+average score:36.63
+high score:73
+current generation:48100
+new greedy factor:6.849315E-5
+average score:31.95
+high score:73
+current generation:48200
+new greedy factor:6.849315E-5
+average score:29.92
+high score:73
+current generation:48300
+new greedy factor:6.849315E-5
+average score:33.0
+high score:73
+current generation:48400
+new greedy factor:6.849315E-5
+average score:34.61
+high score:73
+current generation:48500
+new greedy factor:6.849315E-5
+average score:32.79
+high score:73
+current generation:48600
+new greedy factor:6.849315E-5
+average score:33.37
+high score:73
+current generation:48700
+new greedy factor:6.849315E-5
+average score:29.93
+high score:73
+current generation:48800
+new greedy factor:6.849315E-5
+average score:33.46
+high score:73
+current generation:48900
+new greedy factor:6.849315E-5
+average score:30.92
+high score:73
+current generation:49000
+new greedy factor:6.849315E-5
+average score:32.21
+high score:73
+current generation:49100
+new greedy factor:6.849315E-5
+average score:33.4
+high score:73
+current generation:49200
+new greedy factor:6.849315E-5
+average score:30.8
+high score:73
+current generation:49300
+new greedy factor:6.849315E-5
+average score:35.22
+high score:73
+current generation:49400
+new greedy factor:6.849315E-5
+average score:36.83
+high score:73
+current generation:49500
+new greedy factor:6.849315E-5
+average score:36.82
+high score:73
+current generation:49600
+new greedy factor:6.849315E-5
+average score:35.01
+high score:73
+current generation:49700
+new greedy factor:6.849315E-5
+average score:35.43
+high score:73
+current generation:49800
+new greedy factor:6.849315E-5
+average score:32.28
+high score:73
+current generation:49900
+new greedy factor:6.849315E-5
+average score:30.36
+high score:73
+current generation:50000
+new greedy factor:6.849315E-5
+average score:32.24
+high score:73
+data saved
+current generation:50100
+new greedy factor:6.849315E-5
+average score:32.84
+high score:73
+current generation:50200
+new greedy factor:6.849315E-5
+average score:30.11
+high score:73
+current generation:50300
+new greedy factor:6.849315E-5
+average score:35.82
+high score:73
+current generation:50400
+new greedy factor:6.849315E-5
+average score:34.18
+high score:73
+current generation:50500
+new greedy factor:6.849315E-5
+average score:36.86
+high score:73
+current generation:50600
+new greedy factor:6.849315E-5
+average score:34.77
+high score:73
+current generation:50700
+new greedy factor:6.849315E-5
+average score:31.79
+high score:73
+current generation:50800
+new greedy factor:6.849315E-5
+average score:32.39
+high score:73
+current generation:50900
+new greedy factor:6.849315E-5
+average score:33.84
+high score:73
+current generation:51000
+new greedy factor:6.849315E-5
+average score:29.62
+high score:73
+current generation:51100
+new greedy factor:6.849315E-5
+average score:30.71
+high score:73
+current generation:51200
+new greedy factor:6.849315E-5
+average score:32.9
+high score:73
+current generation:51300
+new greedy factor:6.849315E-5
+average score:33.37
+high score:73
+current generation:51400
+new greedy factor:6.849315E-5
+average score:33.63
+high score:73
+current generation:51500
+new greedy factor:6.849315E-5
+average score:35.29
+high score:73
+current generation:51600
+new greedy factor:6.849315E-5
+average score:34.71
+high score:73
+current generation:51700
+new greedy factor:6.849315E-5
+average score:35.25
+high score:73
+current generation:51800
+new greedy factor:6.849315E-5
+average score:32.01
+high score:73
+current generation:51900
+new greedy factor:6.849315E-5
+average score:30.57
+high score:73
+current generation:52000
+new greedy factor:6.849315E-5
+average score:32.91
+high score:73
+current generation:52100
+new greedy factor:6.849315E-5
+average score:35.08
+high score:73
+current generation:52200
+new greedy factor:6.849315E-5
+average score:33.33
+high score:73
+current generation:52300
+new greedy factor:6.849315E-5
+average score:35.43
+high score:73
+current generation:52400
+new greedy factor:6.849315E-5
+average score:34.33
+high score:73
+current generation:52500
+new greedy factor:6.849315E-5
+average score:35.28
+high score:73
+current generation:52600
+new greedy factor:6.849315E-5
+average score:36.93
+high score:73
+current generation:52700
+new greedy factor:6.849315E-5
+average score:33.99
+high score:73
+current generation:52800
+new greedy factor:6.849315E-5
+average score:32.22
+high score:73
+current generation:52900
+new greedy factor:6.849315E-5
+average score:29.67
+high score:73
+current generation:53000
+new greedy factor:6.849315E-5
+average score:33.34
+high score:73
+current generation:53100
+new greedy factor:6.849315E-5
+average score:38.37
+high score:73
+current generation:53200
+new greedy factor:6.849315E-5
+average score:35.39
+high score:73
+current generation:53300
+new greedy factor:6.849315E-5
+average score:40.28
+high score:73
+current generation:53400
+new greedy factor:6.849315E-5
+average score:35.72
+high score:73
+current generation:53500
+new greedy factor:6.849315E-5
+average score:36.17
+high score:73
+current generation:53600
+new greedy factor:6.849315E-5
+average score:33.13
+high score:73
+current generation:53700
+new greedy factor:6.849315E-5
+average score:32.21
+high score:73
+current generation:53800
+new greedy factor:6.849315E-5
+average score:35.74
+high score:73
+current generation:53900
+new greedy factor:6.849315E-5
+average score:35.71
+high score:73
+current generation:54000
+new greedy factor:6.849315E-5
+average score:37.23
+high score:73
+current generation:54100
+new greedy factor:6.849315E-5
+average score:36.07
+high score:73
+current generation:54200
+new greedy factor:6.849315E-5
+average score:38.13
+high score:73
+current generation:54300
+new greedy factor:6.849315E-5
+average score:35.9
+high score:73
+current generation:54400
+new greedy factor:6.849315E-5
+average score:34.0
+high score:73
+current generation:54500
+new greedy factor:6.849315E-5
+average score:35.44
+high score:73
+current generation:54600
+new greedy factor:6.849315E-5
+average score:37.66
+high score:73
+current generation:54700
+new greedy factor:6.849315E-5
+average score:36.96
+high score:73
+current generation:54800
+new greedy factor:6.849315E-5
+average score:35.17
+high score:73
+current generation:54900
+new greedy factor:6.849315E-5
+average score:34.17
+high score:73
+current generation:55000
+new greedy factor:6.849315E-5
+average score:32.7
+high score:73
+current generation:55100
+new greedy factor:6.849315E-5
+average score:34.79
+high score:73
+current generation:55200
+new greedy factor:6.849315E-5
+average score:37.94
+high score:73
+current generation:55300
+new greedy factor:6.849315E-5
+average score:37.47
+high score:73
+current generation:55400
+new greedy factor:6.493506E-5
+average score:39.34
+high score:77
+current generation:55500
+new greedy factor:6.493506E-5
+average score:39.57
+high score:77
+current generation:55600
+new greedy factor:6.493506E-5
+average score:38.36
+high score:77
+current generation:55700
+new greedy factor:6.493506E-5
+average score:34.48
+high score:77
+current generation:55800
+new greedy factor:6.493506E-5
+average score:36.41
+high score:77
+current generation:55900
+new greedy factor:6.493506E-5
+average score:28.23
+high score:77
+current generation:56000
+new greedy factor:6.493506E-5
+average score:30.65
+high score:77
+current generation:56100
+new greedy factor:6.493506E-5
+average score:32.27
+high score:77
+current generation:56200
+new greedy factor:6.493506E-5
+average score:35.79
+high score:77
+current generation:56300
+new greedy factor:6.493506E-5
+average score:36.45
+high score:77
+current generation:56400
+new greedy factor:6.493506E-5
+average score:35.44
+high score:77
+current generation:56500
+new greedy factor:6.493506E-5
+average score:38.39
+high score:77
+current generation:56600
+new greedy factor:6.493506E-5
+average score:35.17
+high score:77
+current generation:56700
+new greedy factor:6.493506E-5
+average score:36.74
+high score:77
+current generation:56800
+new greedy factor:6.493506E-5
+average score:37.17
+high score:77
+current generation:56900
+new greedy factor:6.493506E-5
+average score:36.44
+high score:77
+current generation:57000
+new greedy factor:6.493506E-5
+average score:31.85
+high score:77
+current generation:57100
+new greedy factor:6.1728395E-5
+average score:38.1
+high score:81
+current generation:57200
+new greedy factor:6.1728395E-5
+average score:38.09
+high score:81
+current generation:57300
+new greedy factor:6.1728395E-5
+average score:36.76
+high score:81
+current generation:57400
+new greedy factor:6.1728395E-5
+average score:30.3
+high score:81
+current generation:57500
+new greedy factor:6.1728395E-5
+average score:38.54
+high score:81
+current generation:57600
+new greedy factor:6.1728395E-5
+average score:41.57
+high score:81
+current generation:57700
+new greedy factor:6.1728395E-5
+average score:41.7
+high score:81
+current generation:57800
+new greedy factor:6.1728395E-5
+average score:39.18
+high score:81
+current generation:57900
+new greedy factor:6.1728395E-5
+average score:39.35
+high score:81
+current generation:58000
+new greedy factor:6.1728395E-5
+average score:37.14
+high score:81
+current generation:58100
+new greedy factor:6.1728395E-5
+average score:38.64
+high score:81
+current generation:58200
+new greedy factor:6.1728395E-5
+average score:38.18
+high score:81
+current generation:58300
+new greedy factor:6.1728395E-5
+average score:38.23
+high score:81
+current generation:58400
+new greedy factor:6.1728395E-5
+average score:42.04
+high score:81
+current generation:58500
+new greedy factor:6.1728395E-5
+average score:40.19
+high score:81
+current generation:58600
+new greedy factor:6.1728395E-5
+average score:37.46
+high score:81
+current generation:58700
+new greedy factor:6.1728395E-5
+average score:37.92
+high score:81
+current generation:58800
+new greedy factor:6.1728395E-5
+average score:33.06
+high score:81
+current generation:58900
+new greedy factor:6.1728395E-5
+average score:33.88
+high score:81
+current generation:59000
+new greedy factor:6.1728395E-5
+average score:39.21
+high score:81
+current generation:59100
+new greedy factor:6.1728395E-5
+average score:40.28
+high score:81
+current generation:59200
+new greedy factor:6.1728395E-5
+average score:39.24
+high score:81
+current generation:59300
+new greedy factor:6.1728395E-5
+average score:40.01
+high score:81
+current generation:59400
+new greedy factor:6.1728395E-5
+average score:37.91
+high score:81
+current generation:59500
+new greedy factor:6.1728395E-5
+average score:38.43
+high score:81
+current generation:59600
+new greedy factor:6.1728395E-5
+average score:36.92
+high score:81
+current generation:59700
+new greedy factor:6.1728395E-5
+average score:33.05
+high score:81
+current generation:59800
+new greedy factor:6.1728395E-5
+average score:34.37
+high score:81
+current generation:59900
+new greedy factor:6.1728395E-5
+average score:36.09
+high score:81
+current generation:60000
+new greedy factor:6.1728395E-5
+average score:39.13
+high score:81
+data saved
+current generation:60100
+new greedy factor:6.1728395E-5
+average score:38.11
+high score:81
+current generation:60200
+new greedy factor:6.1728395E-5
+average score:35.14
+high score:81
+current generation:60300
+new greedy factor:6.1728395E-5
+average score:36.49
+high score:81
+current generation:60400
+new greedy factor:6.1728395E-5
+average score:38.82
+high score:81
+current generation:60500
+new greedy factor:6.1728395E-5
+average score:38.9
+high score:81
+current generation:60600
+new greedy factor:6.1728395E-5
+average score:37.79
+high score:81
+current generation:60700
+new greedy factor:6.1728395E-5
+average score:36.94
+high score:81
+current generation:60800
+new greedy factor:6.097561E-5
+average score:38.69
+high score:82
+current generation:60900
+new greedy factor:6.097561E-5
+average score:38.51
+high score:82
+current generation:61000
+new greedy factor:6.097561E-5
+average score:32.66
+high score:82
+current generation:61100
+new greedy factor:6.097561E-5
+average score:36.04
+high score:82
+current generation:61200
+new greedy factor:6.097561E-5
+average score:35.61
+high score:82
+current generation:61300
+new greedy factor:6.097561E-5
+average score:37.1
+high score:82
+current generation:61400
+new greedy factor:6.097561E-5
+average score:37.29
+high score:82
+current generation:61500
+new greedy factor:6.097561E-5
+average score:35.83
+high score:82
+current generation:61600
+new greedy factor:6.097561E-5
+average score:36.6
+high score:82
+current generation:61700
+new greedy factor:6.097561E-5
+average score:34.07
+high score:82
+current generation:61800
+new greedy factor:6.097561E-5
+average score:39.87
+high score:82
+current generation:61900
+new greedy factor:6.097561E-5
+average score:40.99
+high score:82
+current generation:62000
+new greedy factor:6.097561E-5
+average score:39.34
+high score:82
+current generation:62100
+new greedy factor:6.097561E-5
+average score:36.11
+high score:82
+current generation:62200
+new greedy factor:6.097561E-5
+average score:33.48
+high score:82
+current generation:62300
+new greedy factor:6.097561E-5
+average score:33.23
+high score:82
+current generation:62400
+new greedy factor:6.097561E-5
+average score:33.62
+high score:82
+current generation:62500
+new greedy factor:6.097561E-5
+average score:40.42
+high score:82
+current generation:62600
+new greedy factor:6.097561E-5
+average score:38.08
+high score:82
+current generation:62700
+new greedy factor:6.097561E-5
+average score:35.97
+high score:82
+current generation:62800
+new greedy factor:6.0240964E-5
+average score:41.57
+high score:83
+current generation:62900
+new greedy factor:6.0240964E-5
+average score:41.36
+high score:83
+current generation:63000
+new greedy factor:6.0240964E-5
+average score:39.82
+high score:83
+current generation:63100
+new greedy factor:6.0240964E-5
+average score:42.47
+high score:83
+current generation:63200
+new greedy factor:6.0240964E-5
+average score:38.82
+high score:83
+current generation:63300
+new greedy factor:6.0240964E-5
+average score:42.59
+high score:83
+current generation:63400
+new greedy factor:6.0240964E-5
+average score:38.01
+high score:83
+current generation:63500
+new greedy factor:6.0240964E-5
+average score:39.15
+high score:83
+current generation:63600
+new greedy factor:6.0240964E-5
+average score:42.41
+high score:83
+current generation:63700
+new greedy factor:6.0240964E-5
+average score:42.02
+high score:83
+current generation:63800
+new greedy factor:6.0240964E-5
+average score:36.92
+high score:83
+current generation:63900
+new greedy factor:6.0240964E-5
+average score:43.73
+high score:83
+current generation:64000
+new greedy factor:6.0240964E-5
+average score:45.31
+high score:83
+current generation:64100
+new greedy factor:6.0240964E-5
+average score:44.03
+high score:83
+current generation:64200
+new greedy factor:6.0240964E-5
+average score:39.55
+high score:83
+current generation:64300
+new greedy factor:6.0240964E-5
+average score:34.28
+high score:83
+current generation:64400
+new greedy factor:6.0240964E-5
+average score:38.27
+high score:83
+current generation:64500
+new greedy factor:6.0240964E-5
+average score:45.74
+high score:83
+current generation:64600
+new greedy factor:6.0240964E-5
+average score:44.69
+high score:83
+current generation:64700
+new greedy factor:6.0240964E-5
+average score:44.06
+high score:83
+current generation:64800
+new greedy factor:6.0240964E-5
+average score:46.33
+high score:83
+current generation:64900
+new greedy factor:6.0240964E-5
+average score:45.55
+high score:83
+current generation:65000
+new greedy factor:6.0240964E-5
+average score:44.96
+high score:83
+current generation:65100
+new greedy factor:6.0240964E-5
+average score:42.78
+high score:83
+current generation:65200
+new greedy factor:6.0240964E-5
+average score:41.06
+high score:83
+current generation:65300
+new greedy factor:6.0240964E-5
+average score:42.4
+high score:83
+current generation:65400
+new greedy factor:6.0240964E-5
+average score:47.84
+high score:83
+current generation:65500
+new greedy factor:6.0240964E-5
+average score:45.9
+high score:83
+current generation:65600
+new greedy factor:6.0240964E-5
+average score:45.61
+high score:83
+current generation:65700
+new greedy factor:6.0240964E-5
+average score:44.97
+high score:83
+current generation:65800
+new greedy factor:6.0240964E-5
+average score:42.47
+high score:83
+current generation:65900
+new greedy factor:6.0240964E-5
+average score:39.54
+high score:83
+current generation:66000
+new greedy factor:6.0240964E-5
+average score:39.35
+high score:83
+current generation:66100
+new greedy factor:6.0240964E-5
+average score:37.55
+high score:83
+current generation:66200
+new greedy factor:6.0240964E-5
+average score:38.17
+high score:83
+current generation:66300
+new greedy factor:6.0240964E-5
+average score:43.05
+high score:83
+current generation:66400
+new greedy factor:6.0240964E-5
+average score:41.92
+high score:83
+current generation:66500
+new greedy factor:6.0240964E-5
+average score:39.05
+high score:83
+current generation:66600
+new greedy factor:6.0240964E-5
+average score:40.55
+high score:83
+current generation:66700
+new greedy factor:6.0240964E-5
+average score:37.65
+high score:83
+current generation:66800
+new greedy factor:6.0240964E-5
+average score:40.01
+high score:83
+current generation:66900
+new greedy factor:6.0240964E-5
+average score:40.94
+high score:83
+current generation:67000
+new greedy factor:6.0240964E-5
+average score:41.37
+high score:83
+current generation:67100
+new greedy factor:6.0240964E-5
+average score:44.15
+high score:83
+current generation:67200
+new greedy factor:6.0240964E-5
+average score:32.82
+high score:83
+current generation:67300
+new greedy factor:6.0240964E-5
+average score:26.6
+high score:83
+current generation:67400
+new greedy factor:6.0240964E-5
+average score:34.71
+high score:83
+current generation:67500
+new greedy factor:6.0240964E-5
+average score:38.89
+high score:83
+current generation:67600
+new greedy factor:6.0240964E-5
+average score:41.02
+high score:83
+current generation:67700
+new greedy factor:6.0240964E-5
+average score:41.89
+high score:83
+current generation:67800
+new greedy factor:6.0240964E-5
+average score:40.27
+high score:83
+current generation:67900
+new greedy factor:6.0240964E-5
+average score:40.51
+high score:83
+current generation:68000
+new greedy factor:6.0240964E-5
+average score:40.47
+high score:83
+current generation:68100
+new greedy factor:6.0240964E-5
+average score:37.34
+high score:83
+current generation:68200
+new greedy factor:6.0240964E-5
+average score:39.18
+high score:83
+current generation:68300
+new greedy factor:6.0240964E-5
+average score:36.88
+high score:83
+current generation:68400
+new greedy factor:6.0240964E-5
+average score:39.06
+high score:83
+current generation:68500
+new greedy factor:6.0240964E-5
+average score:41.66
+high score:83
+current generation:68600
+new greedy factor:6.0240964E-5
+average score:40.11
+high score:83
+current generation:68700
+new greedy factor:6.0240964E-5
+average score:37.4
+high score:83
+current generation:68800
+new greedy factor:6.0240964E-5
+average score:32.88
+high score:83
+current generation:68900
+new greedy factor:6.0240964E-5
+average score:38.89
+high score:83
+current generation:69000
+new greedy factor:6.0240964E-5
+average score:38.64
+high score:83
+current generation:69100
+new greedy factor:6.0240964E-5
+average score:36.43
+high score:83
+current generation:69200
+new greedy factor:6.0240964E-5
+average score:42.46
+high score:83
+current generation:69300
+new greedy factor:6.0240964E-5
+average score:41.68
+high score:83
+current generation:69400
+new greedy factor:6.0240964E-5
+average score:39.9
+high score:83
+current generation:69500
+new greedy factor:6.0240964E-5
+average score:41.03
+high score:83
+current generation:69600
+new greedy factor:6.0240964E-5
+average score:44.5
+high score:83
+current generation:69700
+new greedy factor:6.0240964E-5
+average score:38.49
+high score:83
+current generation:69800
+new greedy factor:6.0240964E-5
+average score:44.87
+high score:83
+current generation:69900
+new greedy factor:6.0240964E-5
+average score:41.49
+high score:83
+current generation:70000
+new greedy factor:6.0240964E-5
+average score:39.86
+high score:83
+data saved

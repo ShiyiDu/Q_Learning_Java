@@ -14,7 +14,7 @@ public class Main {
         SnakeGame2 gameModel = new SnakeGame2(20, 20);
         SnakeLearner2 learner = new SnakeLearner2(gameModel);
 
-        learner.stopLearning();
+//        learner.stopLearning();
 
         SnakeListener gameListener = new SnakeListener(gameModel.getBody());
 

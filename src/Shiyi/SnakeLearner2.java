@@ -28,8 +28,8 @@ public class SnakeLearner2 {
     public SnakeLearner2(SnakeGame2 gameModel) {
         this.gameModel = gameModel;
         this.learner = new Q_Learner(0.2f, 0.8f, 0.5f, 1048576, 4, this::getReward, this::executeAction);
-        loadData("Snake_learner104857_training_data_gen230000");
-        generation = 230000;
+//        loadData("Snake_learner104857_training_data_gen230000");
+        generation = 0;
     }
 
     public void stopLearning() {
@@ -78,7 +78,7 @@ public class SnakeLearner2 {
 
     public void saveData() {
         int counter = 0;
-        String name = this.myName + "_training_data_gen" + ((Integer) generation).toString();
+        String name = this.myName + "new_training_data_gen" + ((Integer) generation).toString();
         File newFile = new File("training_data/" + name);
         while (newFile.exists()) {
             counter++;
