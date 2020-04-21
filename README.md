@@ -4,3 +4,5 @@ This is the project I did in EECS 4401, you can see the training in action by ru
 initAppleFinderGame();
 initSnakeGame();
 initSnakeGame2();
+
+You can also see the code for Q-learning in Q_learner.java file
