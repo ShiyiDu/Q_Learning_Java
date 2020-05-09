@@ -6,3 +6,5 @@ initSnakeGame();
 initSnakeGame2();
 
 You can also see my implementation for Q-learning in Q_Learner.java file
+
+To read more about the project, you can read the project report located at root folder
