@@ -7,4 +7,4 @@ initSnakeGame2();
 
 You can also see my implementation for Q-learning in Q_Learner.java file
 
-To read more about the project, you can read the Project Report[Project_Report.pdf](https://github.com/ShiyiDu/Q_Learning_Java/raw/master/EECS%204401%20Project%20Report.pdf). located at root folder
+To read more about the project, you can read the [Project_Report.pdf](https://github.com/ShiyiDu/Q_Learning_Java/raw/master/EECS%204401%20Project%20Report.pdf). located at root folder
