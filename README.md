@@ -9,6 +9,6 @@ initAppleFinderGame();
 initSnakeGame();
 initSnakeGame2();
 
-You can also see my implementation for Q-learning in Q_Learner.java file
+My implementation for Q-learning: [Q_Learner.java](https://github.com/ShiyiDu/Q_Learning_Java/blob/master/src/Shiyi/Q_Learner.java)
 
 To read more about the project, you can read the [Project_Report.pdf](https://github.com/ShiyiDu/Q_Learning_Java/raw/master/EECS%204401%20Project%20Report.pdf). located at root folder
