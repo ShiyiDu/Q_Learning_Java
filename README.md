@@ -1,5 +1,9 @@
 # Q_Learning
  
+Training Result:
+
+![AI Play Snake](https://github.com/ShiyiDu/Q_Learning_Java/raw/master/gifs/Snake_Game.gif)
+ 
 This is the project I did in EECS 4401, you can see the training in action by running one of the following:
 initAppleFinderGame();
 initSnakeGame();
